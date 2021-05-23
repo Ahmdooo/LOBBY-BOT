@@ -1,8 +1,8 @@
 # Welcome 🥳
 
-EZFN.DEV is a free Fortnite Lobbybot which allows you to see all Fortnite cosmetics.
+AHMDO.DEV is a free Fortnite PRIVATE SERVER which allows you to see all Fortnite cosmetics.
 
-## Get Help
-[Join my Discord](https://ezfn.dev/discord)
+## MORE STUFF!! 😄
+[Join my Discord](https://discord.gg/bfyuy3tF73)
 
-<sub>If you see this on github.com, visit [my website](https://ezfn.dev)...</sub>
+All Credits and Copyrights Claimed by [EZFN](https://EZFN.DEV)
